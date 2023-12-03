@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="back">戻る</string>
+    <string name="remove">削除</string>
+    <string name="add_new_city">新しい都市を追加</string>
+    <string name="weather_icon">天気アイコン</string>
+    <string name="now">現在</string>
+    <string name="feels_like">体感温度 %1$s°</string>
+    <string name="hourly_info">毎時の情報</string>
+    <string name="temp">%1$s°C</string>
+    <string name="error_occurred_while_weather_loading">通信に失敗しました。</string>
+    <string name="retry">再試行</string>
+    <string name="enter_city_name_or_coordinates_without_commas">都市名または座標を入力してください。</string>
+    <string name="use_current_location">現在地を使用</string>
+    <string name="add">追加</string>
+    <string name="cancel">キャンセル</string>
+    <string name="remove_city">都市を削除</string>
+    <string name="are_you_sure_you_want_to_remove_this_city">この都市を削除してもよろしいですか？</string>
+
+    <string name="clear_sky">快晴</string>
+    <string name="few_clouds">晴れ</string>
+    <string name="scattered_clouds">晴れ時々曇り</string>
+    <string name="broken_clouds">曇り</string>
+    <string name="shower_rain">にわか雨</string>
+    <string name="rain">雨</string>
+    <string name="thunderstorm">雷雨</string>
+    <string name="snow">雪</string>
+    <string name="mist">霧</string>
+
+</resources>
