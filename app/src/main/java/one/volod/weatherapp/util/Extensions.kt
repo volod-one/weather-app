@@ -10,9 +10,6 @@ fun Long.toStringDayTime(): String {
     return Date(this).toString().substring(0, 3) + ", " + Date(this).toString().substring(11, 16)
 }
 
-fun Long.toStringTime(): String {
-    return Date(this).toString().substring(11, 16)
-}
 
 fun Context.hasLocationPermission(): Boolean {
     return ContextCompat.checkSelfPermission(

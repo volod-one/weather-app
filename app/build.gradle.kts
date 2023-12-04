@@ -95,9 +95,6 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
 
-    // Data store
-    implementation("androidx.datastore:datastore-preferences:1.0.0")
-
     // Location Service
     implementation("com.google.android.gms:play-services-location:21.0.1")
 }
